@@ -92,8 +92,8 @@ Now, you are almost ready to share your recipe with the remote!
 
 # TASK 3
 
-- [ ] Checkout a new branch called `task_3`.
-- [ ] Commit any changes that you want to `recipe.md` to improve the recipe.
+- [x] Checkout a new branch called `task_3`.
+- [x] Commit any changes that you want to `recipe.md` to improve the recipe.
 - [ ] While still on the `task_3` branch, push your code to your remote repository on GitHub.
 - [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that it shows up in the original repository that you forked.
